@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting 'velopert-react' Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -65,7 +65,10 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
    1. ##### 자료 좀더 찾아봐야 할듯
 
-6. 
+6. 컴포넌트 반복
+
+   1. concat은 새로운 배열 생성
+   2. push는 기존 배열 자체를 변경
 
 
 

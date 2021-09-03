@@ -1,9 +1,9 @@
-import ValidationSample from "./component/05/ValidationSample";
+import IterationSample2 from "./component/06/IterationSample2";
 
 function App() {
   return (
     <div >
-      <ValidationSample />
+      <IterationSample2 />
     </div>
   );
 }
