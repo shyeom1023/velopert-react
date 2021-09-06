@@ -69,6 +69,17 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
    1. concat은 새로운 배열 생성
    2. push는 기존 배열 자체를 변경
+   
+7. 클래스형 주기
+
+8. Hooks
+
+   1. useState : Counter.js
+   2. UseEffect : Info.js
+      1. 그냥 사용하면 업데이트 될때마다 적용이 된다.
+      2. , [] 을 쓰면 처음에만 작동을 한다.,
+      3. , [props] 특정 값만 사용할 때 사용한다.
+      4.  return 업데이트 전에 내용을 사용한다.
 
 
 
